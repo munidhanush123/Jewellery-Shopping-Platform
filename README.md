@@ -1,1 +1,1 @@
-# Jewellery-Shopping-Platform
+# Jewellery-Shopping-Platform-frontend

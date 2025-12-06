@@ -86,7 +86,7 @@
 
 ```bash
 git clone https://github.com/yourusername/jewelry-shopping-platform.git
-cd jewelry-shopping-platform
+cd jewellery-shopping-platform
 ```
 
 ---

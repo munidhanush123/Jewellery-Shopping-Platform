@@ -3,7 +3,7 @@
 ### *Modern Full-Stack E-Commerce Solution Built with Next.js, Express, MongoDB & Stripe*
 
 <p align="center">
-  <img src="https://dummyimage.com/1200x350/000000/ffffff&text=Jewelry+Shopping+Platform+%7C+Modern+Full-Stack+E-Commerce" alt="Jewelry Shopping Platform Banner"/>
+  <img src="https://dummyimage.com/1200x350/000000/ffffff&text=Jewelry+Shopping+Platform+%7C+Modern+Full-Stack+E-Commerce" alt="Jewellery Shopping Platform Banner"/>
 </p>
 
 <p align="center">

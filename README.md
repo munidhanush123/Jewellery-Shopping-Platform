@@ -1,9 +1,9 @@
-# 🛍️💎 **Jewellery Shopping Platform**
+# 🛍️💎 **Jewelry Shopping Platform**
 
 ### *Modern Full-Stack E-Commerce Solution Built with Next.js, Express, MongoDB & Stripe*
 
 <p align="center">
-  <img src="https://dummyimage.com/1200x350/000000/ffffff&text=Jewelry+Shopping+Platform+%7C+Modern+Full-Stack+E-Commerce" alt="Jewellery Shopping Platform Banner"/>
+  <img src="https://dummyimage.com/1200x350/000000/ffffff&text=Jewelry+Shopping+Platform+%7C+Modern+Full-Stack+E-Commerce" alt="Jewelry Shopping Platform Banner"/>
 </p>
 
 <p align="center">
@@ -80,13 +80,39 @@
 
 ---
 
+
+# 📁 **Project Folder Structure**
+
+```
+jewelry-shop/
+│
+├── client/                     # Next.js frontend
+│   ├── components/
+│   ├── pages/
+│   ├── redux/
+│   ├── styles/
+│   └── utils/
+│
+├── server/                     # Express.js backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── config/
+│
+├── public/
+└── README.md
+```
+
+---
+
 # ⚙️ **Installation & Setup**
 
 ## 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/jewelry-shopping-platform.git
-cd jewellery-shopping-platform
+cd jewelry-shopping-platform
 ```
 
 ---

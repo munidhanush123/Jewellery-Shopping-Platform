@@ -1,4 +1,4 @@
-# 🛍️💎 **Jewelry Shopping Platform**
+# 🛍️💎 **Jewellery Shopping Platform**
 
 ### *Modern Full-Stack E-Commerce Solution Built with Next.js, Express, MongoDB & Stripe*
 
